@@ -30,7 +30,6 @@ brew cask install pgadmin4
 brew cask install psequel
 brew cask install qbserve
 brew cask install qlstephen
-brew cask install rescuetime
 brew cask install spideroakone
 brew cask install atom
 brew cask install torbrowser
