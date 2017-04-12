@@ -11,7 +11,6 @@ brew cask install carbon-copy-cloner
 brew cask install cloak
 brew cask install dash
 brew cask install dnscrypt
-brew cask install doxie
 brew cask install dropbox
 brew cask install firefox
 brew cask install google-chrome
@@ -33,6 +32,7 @@ brew cask install psequel
 brew cask install qbserve
 brew cask install qlstephen
 brew cask install spideroakone
+brew cask install spotify
 brew cask install atom
 brew cask install torbrowser
 brew cask install trailer
